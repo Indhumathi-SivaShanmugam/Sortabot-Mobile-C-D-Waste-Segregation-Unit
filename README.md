@@ -1,1 +1,1 @@
-# Sortabot-Mobile-C-D-Waste-Segregation-Unit
+# Sortabot-Mobile-C and D-Waste-Segregation-Unit
