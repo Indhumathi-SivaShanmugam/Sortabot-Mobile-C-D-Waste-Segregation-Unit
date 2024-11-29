@@ -1,5 +1,5 @@
 
-# Mobile C&D Waste Processing Unit 🚧♻️  
+# SORTABOT Mobile C&D Waste Processing Unit 🚧♻️  
 
 ## Problem Statement 🌍  
 The rapid increase in **Construction and Demolition (C&D) waste** poses significant environmental challenges, including:  
