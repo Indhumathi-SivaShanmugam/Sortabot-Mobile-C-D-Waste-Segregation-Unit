@@ -128,11 +128,12 @@ Join us on this mission to make urban development more sustainable and efficient
 
 ### Team Members 👥  
 
-- **[Your Name]**: Project Lead & System Architect  
-- **[Team Member 1]**: IoT Integration & Cloud Monitoring  
-- **[Team Member 2]**: AI Development & Predictive Analytics  
-- **[Team Member 3]**: Hardware Design & System Integration  
-- **[Team Member 4]**: Mobile App Development & UI/UX Design  
+- **[Indhumathi Sivashanmugam](https://github.com/Indhumathi-SivaShanmugam)**  
+- **[M Harinee](https://github.com/Harinee2501)**  
+- **[Pranav R P](https://github.com/Pranav-1885)**
+- **[Manogar C]**
+
+---
 
 ---
 
