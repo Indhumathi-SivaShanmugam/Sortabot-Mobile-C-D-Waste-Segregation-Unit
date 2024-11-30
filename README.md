@@ -43,19 +43,19 @@ This innovative system transforms C&D waste into **reusable resources**, contrib
 
 ## How It Works 
 
-1. **Waste Preparation** 📦  
+1. **Waste Preparation** 
    Incoming waste is pre-sized for easier handling and processing.  
 
-2. **Magnetic Separation** 🧲  
+2. **Magnetic Separation** 
    A **magnetic roller** extracts ferrous materials like metal scraps.  
 
-3. **Optical Sorting** 🖼️➤🗑️  
+3. **Optical Sorting** 
    **Advanced sensors** identify material types (e.g., glass, plastic, wood). Automated mechanisms direct these materials into their respective containers.  
 
-4. **Hard Material Crushing** 🛠️  
+4. **Hard Material Crushing** 
    Materials like **concrete** and **ceramics** are crushed for size reduction.  
 
-5. **Soft Material Crushing** 🌳🧩  
+5. **Soft Material Crushing**  
    **Plastics** and **wood** are separately crushed to uniform sizes.  
 
 ---
@@ -128,7 +128,7 @@ Join us on this mission to make urban development more sustainable and efficient
 The ml model is built and trained for optical sorting.The model idetifies the Demolition waste in following classes;
 names: 
  - 0: PVC
- - -1: brick
+ - 1: brick
  - 2: cementitious_debris
  - 3: rebar
  - 4: wires
