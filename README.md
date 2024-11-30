@@ -124,14 +124,14 @@ By integrating cutting-edge **automation**, **IoT**, and **renewable energy tech
 Join us on this mission to make urban development more sustainable and efficient!  
 
 ---
-##PROGRESS/STATUS
+## PROGRESS/STATUS
 The ml model is built and trained for optical sorting.The model idetifies the Demolition waste in following classes;
 names: 
-  0: PVC
-  1: brick
-  2: cementitious_debris
-  3: rebar
-  4: wires
+ - 0: PVC
+ - -1: brick
+ - 2: cementitious_debris
+ - 3: rebar
+ - 4: wires
 
   ![image](https://github.com/user-attachments/assets/f4d2300d-a004-4f49-86d1-74f4077f67c6) ![image](https://github.com/user-attachments/assets/309b2f54-159d-4fe6-9bf2-1b560d004f2f)
   ![image](https://github.com/user-attachments/assets/c5d46c6e-0d24-4635-aae6-e6578d6eda04)![image](https://github.com/user-attachments/assets/cd3f2c90-482b-4b7f-b726-b2ae2285e1f9)
